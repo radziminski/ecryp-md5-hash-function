@@ -1,1 +1,1 @@
-python3 data/main.py
+python3 source/main.py
